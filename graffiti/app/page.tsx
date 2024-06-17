@@ -14,7 +14,5 @@ export default function Home() {
         <Link href = "/create" > create </Link>
       </section>
     </body>
-    
-    
   );
 }
